@@ -8,9 +8,9 @@ import lombok.*;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQSimplePullResponse
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-19:20
  */
 @Data

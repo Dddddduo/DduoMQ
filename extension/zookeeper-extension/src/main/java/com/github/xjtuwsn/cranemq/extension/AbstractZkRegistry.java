@@ -12,9 +12,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:AbstractZkRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/17-16:15
  */
 public abstract class AbstractZkRegistry implements RemoteService {

@@ -18,9 +18,9 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DefaultMQProducer
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-11:11
  * 消息生产者
  */

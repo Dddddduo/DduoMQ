@@ -8,9 +8,9 @@ import lombok.*;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQUpdateTopicRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-21:36
  */
 @Data

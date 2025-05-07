@@ -15,9 +15,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ClientLockMananger
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/12-17:24
  * 队列锁管理
  */

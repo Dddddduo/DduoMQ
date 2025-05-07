@@ -6,16 +6,16 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:AbstractMessageStore
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/05-10:18
  */
 
 /**
  * 表示commitLog和消费队列对mappedFile 的组织形式
  * 以链表的形式组织
- * @author wsn
+ * @author dduo
  */
 public abstract class AbstractLinkedListOrganize {
 

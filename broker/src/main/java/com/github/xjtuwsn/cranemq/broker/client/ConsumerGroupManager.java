@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ClientManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/09-21:46
  */
 public interface ConsumerGroupManager {

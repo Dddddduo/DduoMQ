@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.command.types;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:LockType
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/12-17:20
  */
 public enum LockType {

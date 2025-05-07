@@ -8,9 +8,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerConfig
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-10:19
  */
 @Data

@@ -9,9 +9,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ConnectionManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-15:27
  */
 @ChannelHandler.Sharable

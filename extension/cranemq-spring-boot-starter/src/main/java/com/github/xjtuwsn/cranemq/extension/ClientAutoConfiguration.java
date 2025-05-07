@@ -5,9 +5,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ClientAutoConfiguration
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/14-21:28
  */
 @Configuration

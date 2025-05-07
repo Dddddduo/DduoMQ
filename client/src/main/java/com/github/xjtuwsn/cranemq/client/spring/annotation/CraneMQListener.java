@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.client.spring.annotation;
 import java.lang.annotation.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CraneCommonListener
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/14-16:11
  * 注解的函数是一个消息消费者，指定普通或顺序消息
  */

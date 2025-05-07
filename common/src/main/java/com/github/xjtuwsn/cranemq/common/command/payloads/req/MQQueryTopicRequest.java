@@ -6,9 +6,9 @@ import lombok.*;
 import java.io.Serializable;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQUpdateTopicRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-21:50
  */
 @Data

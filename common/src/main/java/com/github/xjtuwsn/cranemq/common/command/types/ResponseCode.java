@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.command.types;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ResponseCode
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-14:45
  */
 public class ResponseCode {

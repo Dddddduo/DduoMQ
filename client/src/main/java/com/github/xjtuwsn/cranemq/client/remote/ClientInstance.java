@@ -52,9 +52,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RemoteClient
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-14:59
  * 本地客户端实例，执行大部分逻辑
  */

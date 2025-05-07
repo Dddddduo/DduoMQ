@@ -41,9 +41,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DefaultPushConsumerImpl
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-10:50
  * 默认的push消费者实现
  */

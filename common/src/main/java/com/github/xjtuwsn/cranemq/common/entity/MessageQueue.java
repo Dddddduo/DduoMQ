@@ -8,9 +8,9 @@ import java.util.Comparator;
 import java.util.Objects;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MessageQueue
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/29-22:03
  */
 @ToString

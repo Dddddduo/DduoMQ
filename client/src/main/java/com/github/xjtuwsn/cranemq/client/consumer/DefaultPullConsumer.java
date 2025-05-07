@@ -11,9 +11,9 @@ import com.github.xjtuwsn.cranemq.common.remote.enums.RegistryType;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DefaultPullConsumer
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-10:37
  */
 @Deprecated

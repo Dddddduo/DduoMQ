@@ -21,9 +21,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ClientHousekeepingService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-19:51
  * 进行客户端的管理
  */

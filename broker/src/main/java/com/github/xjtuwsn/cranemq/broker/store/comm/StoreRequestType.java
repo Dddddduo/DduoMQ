@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.broker.store.comm;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:StoreRequestType
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/04-11:01
  */
 public enum StoreRequestType {

@@ -12,9 +12,9 @@ import com.github.xjtuwsn.cranemq.common.remote.enums.RegistryType;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PushConsumerTest2
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/11-15:09
  */
 public class PushConsumerTest2 {

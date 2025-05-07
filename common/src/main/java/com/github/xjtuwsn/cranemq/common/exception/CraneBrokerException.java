@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.exception;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CraneBrokerException
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-10:42
  */
 public class CraneBrokerException extends RuntimeException {

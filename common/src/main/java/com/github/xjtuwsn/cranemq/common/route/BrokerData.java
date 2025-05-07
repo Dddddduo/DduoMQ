@@ -9,9 +9,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TopicData
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-20:05
  */
 @ToString

@@ -4,9 +4,9 @@ import com.github.xjtuwsn.cranemq.broker.store.MappedFile;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PutMessageResponse
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/05-16:40
  * 写入信息的响应
  */

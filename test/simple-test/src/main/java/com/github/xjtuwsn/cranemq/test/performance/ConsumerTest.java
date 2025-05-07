@@ -8,9 +8,9 @@ import com.github.xjtuwsn.cranemq.common.remote.enums.RegistryType;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ConsumerTest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-16:47
  */
 public class ConsumerTest {

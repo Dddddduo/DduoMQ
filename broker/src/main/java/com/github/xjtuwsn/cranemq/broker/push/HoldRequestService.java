@@ -29,9 +29,9 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:HoldRequestService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/10-09:51
  * 保存消费者长轮询，并在有新消息时返回
  *

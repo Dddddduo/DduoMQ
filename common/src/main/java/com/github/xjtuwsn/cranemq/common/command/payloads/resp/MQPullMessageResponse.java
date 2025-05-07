@@ -8,9 +8,9 @@ import lombok.*;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQPushMessageResponse
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-16:39
  */
 @AllArgsConstructor

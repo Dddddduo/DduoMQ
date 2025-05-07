@@ -24,9 +24,9 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DefaultPushConsumer
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-10:49
  * 以push方式消费的消费者
  */

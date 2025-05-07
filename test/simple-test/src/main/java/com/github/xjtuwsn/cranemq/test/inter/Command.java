@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.test.inter;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:Command
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-10:29
  */
 public interface Command {

@@ -26,9 +26,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:OrderedConsumeMessageService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/12-14:36
  * 顺序消费服务
  */

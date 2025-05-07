@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.broker.store.comm;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:StoreResponse
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/03-15:53
  */
 public enum StoreResponseType {

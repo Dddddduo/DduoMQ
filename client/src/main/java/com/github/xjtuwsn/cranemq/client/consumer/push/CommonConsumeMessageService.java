@@ -13,9 +13,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CommonConsumeMessageService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/09-11:02
  * 普通消息的消费服务
  */

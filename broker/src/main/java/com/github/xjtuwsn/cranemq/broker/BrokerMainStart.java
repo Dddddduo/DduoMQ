@@ -27,9 +27,9 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerMain
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/26-19:52
  */
 @Component

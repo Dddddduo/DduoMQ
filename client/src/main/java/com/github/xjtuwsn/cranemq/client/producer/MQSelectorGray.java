@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQSelectorGray
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/23-10:12
  * 灰度队列选择
  */

@@ -28,9 +28,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ConsumerQueueManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/04-21:27
  * 消费队列的管理类
  */

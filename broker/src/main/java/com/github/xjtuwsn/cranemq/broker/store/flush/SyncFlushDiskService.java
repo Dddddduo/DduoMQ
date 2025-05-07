@@ -5,9 +5,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:SyncFlushDiskService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/06-11:01
  * 同步刷盘服务
  */

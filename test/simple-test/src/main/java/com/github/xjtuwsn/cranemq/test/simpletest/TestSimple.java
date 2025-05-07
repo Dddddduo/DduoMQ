@@ -25,9 +25,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:Test
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/06-10:42
  */
 public class TestSimple {

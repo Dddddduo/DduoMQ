@@ -32,9 +32,9 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerProcessor
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-16:07
  * broker的processor，根据不同请求类型执行
  */

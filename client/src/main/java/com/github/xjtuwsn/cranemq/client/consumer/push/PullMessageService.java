@@ -10,9 +10,9 @@ import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PullMessageService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-15:14
  */
 public class PullMessageService extends Thread {

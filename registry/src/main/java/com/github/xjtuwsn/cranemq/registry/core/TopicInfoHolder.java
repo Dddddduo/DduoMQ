@@ -11,9 +11,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TopicInfoHolder
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-16:45
  */
 public class TopicInfoHolder {

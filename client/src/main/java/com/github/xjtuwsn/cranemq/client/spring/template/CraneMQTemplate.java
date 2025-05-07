@@ -21,9 +21,9 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CraneTemplate
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/14-15:03
  */
 public class CraneMQTemplate {

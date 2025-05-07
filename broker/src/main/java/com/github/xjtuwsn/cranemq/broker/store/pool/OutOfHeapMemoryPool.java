@@ -8,9 +8,9 @@ import java.nio.ByteBuffer;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:OutOfHeapMemoryPool
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/04-10:17
  * 堆外内存池
  */

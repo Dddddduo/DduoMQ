@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.common.remote;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RemoteAddress
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/26-20:39
  */
 @Data

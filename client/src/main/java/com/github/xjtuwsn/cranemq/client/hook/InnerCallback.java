@@ -4,9 +4,9 @@ import com.github.xjtuwsn.cranemq.client.producer.result.SendResult;
 import com.github.xjtuwsn.cranemq.common.command.RemoteCommand;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:InnerCallback
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-22:04
  */
 public abstract class InnerCallback implements SendCallback {

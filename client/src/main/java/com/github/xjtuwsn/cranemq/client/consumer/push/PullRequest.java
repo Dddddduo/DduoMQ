@@ -4,9 +4,9 @@ import com.github.xjtuwsn.cranemq.common.entity.MessageQueue;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PullRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-17:10
  */
 @Data

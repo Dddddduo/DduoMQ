@@ -21,9 +21,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CommitLog
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/03-10:19
  * commitLog主体实现类
  */

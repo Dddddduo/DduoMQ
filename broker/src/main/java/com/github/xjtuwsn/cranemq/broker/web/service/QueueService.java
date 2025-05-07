@@ -10,9 +10,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:QueueService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/23-19:00
  */
 @Service

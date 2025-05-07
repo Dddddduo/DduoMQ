@@ -14,9 +14,9 @@ import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ClientManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-16:32
  */
 public class ClientManager implements ChannelEventListener {

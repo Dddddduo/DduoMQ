@@ -19,9 +19,9 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ConsumerQueue
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/04-21:29
  * 消费队列实现
  */

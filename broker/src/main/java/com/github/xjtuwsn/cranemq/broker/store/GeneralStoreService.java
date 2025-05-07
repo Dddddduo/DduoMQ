@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.broker.store;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:GeneralStoreService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/04-21:51
  */
 public interface GeneralStoreService {

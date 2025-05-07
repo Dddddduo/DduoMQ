@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CommonMain
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/26-19:52
  */
 public class CommonMain {

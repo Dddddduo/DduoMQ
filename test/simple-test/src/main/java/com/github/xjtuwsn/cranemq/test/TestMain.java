@@ -11,9 +11,9 @@ import com.github.xjtuwsn.cranemq.common.remote.enums.RegistryType;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TestMain
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/26-21:35
  */
 public class TestMain {

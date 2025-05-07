@@ -7,9 +7,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ThreadPoolConfig
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/24-16:41
  */
 @Configuration

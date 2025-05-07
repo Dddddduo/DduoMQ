@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.common.constant.MQConstant;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQCreateTopicRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/30-15:12
  */
 @Data

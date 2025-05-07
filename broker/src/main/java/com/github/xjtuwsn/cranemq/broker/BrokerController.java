@@ -24,15 +24,15 @@ import javax.annotation.Resource;
 import java.util.concurrent.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerController
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-10:18
  */
 
 /**
  * broker主体，包含大部分服务
- * @author wsn
+ * @author dduo
  */
 public class BrokerController implements GeneralStoreService {
     // broker配置

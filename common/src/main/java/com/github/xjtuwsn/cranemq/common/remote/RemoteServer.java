@@ -27,9 +27,9 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RemoteServer
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-14:41
  */
 public class RemoteServer implements RemoteService {

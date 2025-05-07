@@ -4,15 +4,15 @@ import com.github.xjtuwsn.cranemq.common.config.FlushDisk;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PersistentConfig
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-21:15
  */
 
 /**
  * 持久化配置信息
- * @author wsn
+ * @author dduo
  */
 @Data
 @Setter

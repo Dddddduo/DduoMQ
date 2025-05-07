@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.remote.enums;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ConnectionEventType
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-17:22
  */
 public enum ConnectionEventType {

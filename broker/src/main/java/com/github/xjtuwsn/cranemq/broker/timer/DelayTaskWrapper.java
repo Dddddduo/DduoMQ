@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.broker.timer;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DelayTaskWrapper
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/19-19:50
  */
 

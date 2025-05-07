@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.broker.store.cmtlog;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RecoveryListener
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/05-19:19
  */
 public interface RecoveryListener {

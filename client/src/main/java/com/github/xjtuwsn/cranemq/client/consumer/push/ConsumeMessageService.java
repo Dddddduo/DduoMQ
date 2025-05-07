@@ -11,9 +11,9 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:UnConsumedQueue
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-15:32
  */
 public interface ConsumeMessageService {

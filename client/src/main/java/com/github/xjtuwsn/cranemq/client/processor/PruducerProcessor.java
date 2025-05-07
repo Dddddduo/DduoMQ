@@ -11,9 +11,9 @@ import org.slf4j.LoggerFactory;
 import java.util.concurrent.ExecutorService;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PruducerProcessor
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-11:14
  */
 public class PruducerProcessor extends AbstractClientProcessor {

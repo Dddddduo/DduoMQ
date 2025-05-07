@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.common.remote;
 import com.github.xjtuwsn.cranemq.common.route.TopicRouteInfo;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RegistryCallback
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-15:43
  */
 public interface RegistryCallback {

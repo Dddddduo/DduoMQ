@@ -10,9 +10,9 @@ import org.slf4j.LoggerFactory;
 import java.util.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ConsistentHashAllocation
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/14-10:24
  * 一致性哈希策略
  */

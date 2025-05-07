@@ -18,9 +18,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ZkReadableRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/17-16:18
  */
 public class ZkReadableRegistry extends AbstractZkRegistry implements ReadableRegistry {

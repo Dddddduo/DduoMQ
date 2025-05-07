@@ -21,9 +21,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:LocalOffsetManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/11-19:35
  * 本地消费位移管理
  */
