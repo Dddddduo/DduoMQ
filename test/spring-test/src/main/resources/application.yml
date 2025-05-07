@@ -1,0 +1,10 @@
+cranemq:
+  producer:
+    group: asd
+  registry:
+    address: 192.168.227.137:2181
+    type: zk
+  consumer:
+    group: group_push
+    model: cluster
+    start: last
