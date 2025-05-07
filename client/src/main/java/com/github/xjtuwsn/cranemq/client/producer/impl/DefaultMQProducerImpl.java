@@ -122,7 +122,6 @@ public class DefaultMQProducerImpl implements MQProducerInner {
         this.address = this.defaultMQProducer.getBrokerAddress();
         // 构建客户端 ID
         this.clientID = TopicUtil.buildClientID("producer");
-
         // 获取或创建客户端实例
         this.clientInstance = ClientFactory.newInstance().getOrCreate(this.clientID, this.hook);
         if (this.loadBalanceStrategy != null) {
