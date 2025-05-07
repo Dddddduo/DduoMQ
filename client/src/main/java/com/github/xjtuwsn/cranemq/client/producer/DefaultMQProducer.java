@@ -18,43 +18,55 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * 消息生产者实例 用来和序列化一起组装成队列模版 Template
+ *
  * @project:dduomq
  * @file:DefaultMQProducer
  * @author:dduo
  * @create:2023/09/27-11:11
- * 消息生产者
  */
 public class DefaultMQProducer implements MQProducer {
+
     private static final Logger log = LoggerFactory.getLogger(DefaultMQProducer.class);
+
     private String topic = MQConstant.DEFAULT_TOPIC_NAME;
 
     private String tag;
+
     private String group = MQConstant.DEFAULT_GROUP_NAME;
 
     private int createQueueNumber = MQConstant.DEFAULT_QUEUE_NUMBER;
 
-
     private RemoteAddress brokerAddress;
+
     private String registryAddr;
+
     // 响应超时时间，ms
     private long responseTimeoutMills = MQConstant.RESPONSE_TIMEOUT_MILLS;
+
     // 默认重试次数
     private int maxRetryTime = MQConstant.MAX_RETRY_TIMES;
+
     private DefaultMQProducerImpl defaultMQProducerImpl;
+
     private LoadBalanceStrategy loadBalanceStrategy;
+
     private RegistryType registryType;
 
     public DefaultMQProducer(String group) {
         this(group, null, null);
     }
+
     public DefaultMQProducer(String group, RemoteHook hook) {
         this(group, hook, null);
     }
+
     public DefaultMQProducer(String group, RemoteHook hook, String registryAddr) {
         this.group = group;
         this.registryAddr = registryAddr;
         this.defaultMQProducerImpl = new DefaultMQProducerImpl(this, hook, this.registryAddr);
     }
+
     @Override
     public void start() throws CraneClientException {
         if (StrUtil.isEmpty(this.registryAddr)) {
@@ -76,6 +88,7 @@ public class DefaultMQProducer implements MQProducer {
 
     /**
      * 同步发送单条
+     *
      * @param message
      * @return
      * @throws CraneClientException
@@ -83,12 +96,12 @@ public class DefaultMQProducer implements MQProducer {
 
     @Override
     public SendResult send(Message message) throws CraneClientException {
-
         return this.defaultMQProducerImpl.sendSync(this.responseTimeoutMills, false, message);
     }
 
     /**
      * 单向发送单条
+     *
      * @param message
      * @param oneWay
      * @throws CraneClientException
@@ -103,6 +116,7 @@ public class DefaultMQProducer implements MQProducer {
 
     /**
      * 异步发送单条消息
+     *
      * @param message
      * @param callback
      * @return
@@ -128,6 +142,7 @@ public class DefaultMQProducer implements MQProducer {
 
     /**
      * 同步批量消息
+     *
      * @param messages
      * @return
      * @throws CraneClientException
@@ -140,6 +155,7 @@ public class DefaultMQProducer implements MQProducer {
 
     /**
      * 单向批量消息
+     *
      * @param messages
      * @param oneWay
      * @throws CraneClientException
@@ -155,6 +171,7 @@ public class DefaultMQProducer implements MQProducer {
 
     /**
      * 异步批量消息
+     *
      * @param messages
      * @param callback
      * @throws CraneClientException
@@ -176,6 +193,7 @@ public class DefaultMQProducer implements MQProducer {
         this.registryAddr = registryAddr;
         this.registryType = registryType;
     }
+
     public String getTopic() {
         return topic;
     }

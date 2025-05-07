@@ -64,6 +64,7 @@ public class CraneClientFactory implements FactoryBean<CraneMQTemplate>, Applica
     private RegistryType registryType;
 
     private RemoteHook remoteHook;
+
     public CraneClientFactory() {
         // 读取解析配置文件
         YamlMapFactoryBean factory = new YamlMapFactoryBean();
@@ -72,18 +73,13 @@ public class CraneClientFactory implements FactoryBean<CraneMQTemplate>, Applica
         Object mqConf = properties.get("cranemq");
         String str = JSON.toJSONString(mqConf);
         Map<String, Map<String, String>> map = JSONObject.parseObject(str, new TypeReference<>(){});
-
         if (map == null) {
             throw new CraneClientException("Configuration is null");
         }
         producerConf = map.get("producer");
-
         consumerConf = map.get("consumer");
-
         registryConf = map.get("registry");
-
         consumers = new ArrayList<>();
-
         infos = new ArrayList<>();
         constructConsumer();
     }
@@ -237,7 +233,4 @@ public class CraneClientFactory implements FactoryBean<CraneMQTemplate>, Applica
     public void registerHook(RemoteHook hook) {
         this.remoteHook = hook;
     }
-
-
-
 }
