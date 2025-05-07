@@ -9,13 +9,20 @@
     <version>0.0.1</version>
     <packaging>pom</packaging>
     <modules>
-        <module>common</module>
+        <!--服务端-->
         <module>broker</module>
-        <module>test</module>
+        <!--客户端-->
         <module>client</module>
+        <!--通用属性-->
+        <module>common</module>
+        <!--轻量注册中心-->
         <module>registry</module>
+        <!--拓展-->
         <module>extension</module>
+        <!--使用示例-->
         <module>example</module>
+        <!--测试-->
+        <module>test</module>
     </modules>
 
     <properties>
