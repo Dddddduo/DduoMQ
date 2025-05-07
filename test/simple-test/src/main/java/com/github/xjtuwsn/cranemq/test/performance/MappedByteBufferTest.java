@@ -8,9 +8,9 @@ import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MappedByteBufferTest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/03-20:58
  */
 public class MappedByteBufferTest {

@@ -13,9 +13,9 @@ import org.slf4j.LoggerFactory;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ZkWritableRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/17-16:20
  */
 public class ZkWritableRegistry extends AbstractZkRegistry implements WritableRegistry {

@@ -10,9 +10,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DelayMessageTask
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/19-14:13
  */
 

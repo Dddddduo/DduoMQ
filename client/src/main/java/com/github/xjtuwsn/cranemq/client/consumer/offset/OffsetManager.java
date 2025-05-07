@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.common.entity.MessageQueue;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:OffsetManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/10-15:37
  */
 public interface OffsetManager {

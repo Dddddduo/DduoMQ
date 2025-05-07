@@ -7,9 +7,9 @@ import java.util.concurrent.Delayed;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DelayTaskList
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/19-14:19
  */
 

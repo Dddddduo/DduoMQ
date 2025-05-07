@@ -10,15 +10,15 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TimingWheel
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/19-11:12
  */
 
 /**
  * 时间轮，用于实现延时任务
- * @author wsn
+ * @author dduo
  * @param <T>
  */
 public class TimingWheel<T extends Thread> {

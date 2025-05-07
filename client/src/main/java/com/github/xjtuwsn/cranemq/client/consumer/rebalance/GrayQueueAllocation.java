@@ -7,15 +7,15 @@ import com.github.xjtuwsn.cranemq.common.exception.CraneClientException;
 import java.util.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:GrayQueueAllocation
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/23-10:28
  */
 
 /**
  * 用于灰度环境下的队列分配策略，灰度客户端和正常客户端分开分配
- * @author wsn
+ * @author dduo
  */
 public class GrayQueueAllocation implements QueueAllocation {
     // 灰度队列的数量，与生产者设置保持一致

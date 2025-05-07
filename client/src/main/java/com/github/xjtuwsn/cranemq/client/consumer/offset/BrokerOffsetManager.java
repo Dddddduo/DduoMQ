@@ -22,9 +22,9 @@ import java.util.concurrent.atomic.AtomicLong;
 import java.util.stream.Collectors;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerOffsetManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/10-15:12
  * 让broker进行消费者组位移管理，本地向服务器提交位移
  */

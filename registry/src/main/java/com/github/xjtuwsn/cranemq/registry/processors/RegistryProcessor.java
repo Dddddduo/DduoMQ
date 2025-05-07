@@ -21,9 +21,9 @@ import org.slf4j.LoggerFactory;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RegistryProcessor
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-20:06
  */
 public class RegistryProcessor implements BaseProcessor {

@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.client.consumer;
 import com.github.xjtuwsn.cranemq.common.remote.enums.RegistryType;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQConsumer
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-11:11
  */
 public interface MQConsumer {

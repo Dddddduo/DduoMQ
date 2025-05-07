@@ -30,15 +30,15 @@ import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RebalanceService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-17:13
  */
 
 /**
  * 消费者重分配服务
- * @author wsn
+ * @author dduo
  */
 public class RebalanceService {
     private static final Logger log = LoggerFactory.getLogger(RebalanceService.class);

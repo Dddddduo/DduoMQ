@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.common.entity;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MessageConsume
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-17:02
  */
 

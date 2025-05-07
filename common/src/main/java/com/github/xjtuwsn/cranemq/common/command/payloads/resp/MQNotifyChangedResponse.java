@@ -6,9 +6,9 @@ import lombok.*;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQNotifyChangedResponse
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-19:42
  */
 @Data

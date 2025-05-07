@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.common.remote;
 import com.github.xjtuwsn.cranemq.common.route.TopicRouteInfo;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RemoteRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-15:21
  */
 public interface ReadableRegistry extends RemoteService {

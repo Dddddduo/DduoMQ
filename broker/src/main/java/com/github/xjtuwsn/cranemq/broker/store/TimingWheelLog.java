@@ -25,9 +25,9 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TimingWheelLog
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/20-10:45
  */
 

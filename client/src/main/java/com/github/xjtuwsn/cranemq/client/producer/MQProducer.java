@@ -8,9 +8,9 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQProducer
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-11:10
  */
 public interface MQProducer {

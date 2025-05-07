@@ -15,9 +15,9 @@ import com.github.xjtuwsn.cranemq.common.utils.TopicUtil;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:AbstractReputMessageService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/21-11:24
  * 将消息送回给broker
  */

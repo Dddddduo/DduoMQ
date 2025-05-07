@@ -13,9 +13,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RegistryController
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-15:59
  */
 public class RegistryController {

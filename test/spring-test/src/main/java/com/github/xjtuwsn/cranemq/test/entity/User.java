@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.test.entity;
 import java.io.Serializable;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:User
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/14-21:43
  */
 public class User implements Serializable {

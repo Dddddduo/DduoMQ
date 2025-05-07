@@ -7,9 +7,9 @@ import lombok.*;
 import java.io.Serializable;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQSimplePullRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-16:58
  */
 @Data

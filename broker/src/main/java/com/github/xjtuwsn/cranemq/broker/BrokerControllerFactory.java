@@ -26,15 +26,15 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerControllerFactory
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/23-18:56
  */
 
 /**
  * Broker主启动类
- * @author wsn
+ * @author dduo
  */
 @Configuration
 public class BrokerControllerFactory implements ApplicationContextAware {

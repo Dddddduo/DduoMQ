@@ -8,9 +8,9 @@ import com.github.xjtuwsn.cranemq.common.entity.Message;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQBachProduceRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-19:39
  */
 @Data

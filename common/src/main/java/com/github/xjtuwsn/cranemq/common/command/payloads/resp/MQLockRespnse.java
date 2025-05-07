@@ -4,9 +4,9 @@ import com.github.xjtuwsn.cranemq.common.command.PayLoad;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQLockRespnse
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/12-16:25
  */
 @Data

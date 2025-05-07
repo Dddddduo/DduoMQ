@@ -18,9 +18,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PushConsumerTest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-19:09
  */
 public class PushConsumerTest {

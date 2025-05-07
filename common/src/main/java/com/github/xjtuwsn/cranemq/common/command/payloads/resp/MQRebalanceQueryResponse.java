@@ -8,9 +8,9 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQRebalanceQueryResponse
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/10-19:27
  */
 @Data

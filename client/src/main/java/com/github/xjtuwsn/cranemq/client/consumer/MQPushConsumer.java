@@ -8,9 +8,9 @@ import com.github.xjtuwsn.cranemq.common.consumer.MessageModel;
 import com.github.xjtuwsn.cranemq.common.consumer.StartConsume;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQPushConsumer
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/06-22:18
  */
 public interface MQPushConsumer extends MQConsumer {

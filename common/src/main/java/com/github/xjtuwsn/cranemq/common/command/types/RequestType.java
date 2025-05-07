@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.command.types;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CommandType
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-10:20
  */
 public enum RequestType implements Type {

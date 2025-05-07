@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.common.exception.CraneClientException;
 import com.github.xjtuwsn.cranemq.common.route.TopicRouteInfo;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:LoadBalanceStrategy
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/29-21:58
  */
 public interface LoadBalanceStrategy {

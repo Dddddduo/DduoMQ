@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.remote;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ProducerHook
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-14:45
  */
 public interface RemoteHook {

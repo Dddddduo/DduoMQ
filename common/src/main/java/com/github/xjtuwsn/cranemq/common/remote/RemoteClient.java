@@ -22,9 +22,9 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RemoteClent
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-19:21
  */
 public class RemoteClient implements RemoteService {

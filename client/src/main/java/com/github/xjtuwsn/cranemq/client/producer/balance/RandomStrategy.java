@@ -8,9 +8,9 @@ import com.github.xjtuwsn.cranemq.common.route.TopicRouteInfo;
 import java.util.Random;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RandomLoadBalance
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/29-22:00
  */
 public class RandomStrategy implements LoadBalanceStrategy {

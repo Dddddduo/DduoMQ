@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.common.entity.MessageQueue;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQSelector
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/06-20:22
  */
 public interface MQSelector {

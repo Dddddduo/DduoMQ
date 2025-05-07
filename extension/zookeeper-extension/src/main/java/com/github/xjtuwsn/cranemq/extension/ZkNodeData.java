@@ -4,9 +4,9 @@ package com.github.xjtuwsn.cranemq.extension;
 import com.github.xjtuwsn.cranemq.common.route.QueueData;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ZkNodeData
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/17-16:42
  */
 public class ZkNodeData {

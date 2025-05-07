@@ -10,9 +10,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQRecordOffsetRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/11-15:30
  */
 @Data

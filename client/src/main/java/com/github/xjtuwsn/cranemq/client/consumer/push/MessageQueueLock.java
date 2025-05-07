@@ -9,9 +9,9 @@ import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MessageQueueLock
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/12-14:40
  * 本地消费队列锁
  */

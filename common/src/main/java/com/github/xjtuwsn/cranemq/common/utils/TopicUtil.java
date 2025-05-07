@@ -6,9 +6,9 @@ import java.util.Set;
 import java.util.UUID;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TopicUtil
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-21:14
  */
 public class TopicUtil {

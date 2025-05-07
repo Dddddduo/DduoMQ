@@ -4,9 +4,9 @@ import com.github.xjtuwsn.cranemq.common.command.payloads.req.MQHeartBeatRequest
 import io.netty.channel.Channel;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ChannelEventListener
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-19:47
  */
 public interface ChannelEventListener {

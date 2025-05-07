@@ -9,9 +9,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQHeartBeatRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-20:14
  */
 @Data

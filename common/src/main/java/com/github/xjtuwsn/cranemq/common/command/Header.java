@@ -9,9 +9,9 @@ import com.github.xjtuwsn.cranemq.common.command.types.Type;
 import java.io.Serializable;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:Header
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-10:18
  */
 @Data

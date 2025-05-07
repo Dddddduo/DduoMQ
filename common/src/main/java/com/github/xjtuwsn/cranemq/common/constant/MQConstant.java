@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.constant;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ProducerConstant
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-11:18
  */
 public class MQConstant {

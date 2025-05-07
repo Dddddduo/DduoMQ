@@ -11,9 +11,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:FutureCommand
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-10:51
  */
 @ToString

@@ -15,9 +15,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:NacosWritableRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/25-10:47
  */
 public class NacosWritableRegistry extends AbstractNacosRegistry implements WritableRegistry {

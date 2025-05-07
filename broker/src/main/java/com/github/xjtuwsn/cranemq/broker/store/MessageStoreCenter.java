@@ -44,15 +44,15 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:StoreService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/03-16:35
  */
 
 /**
  * 消息存储管理中心
- * @author wsn
+ * @author dduo
  */
 public class MessageStoreCenter implements GeneralStoreService {
     private static final Logger log = LoggerFactory.getLogger(MessageStoreCenter.class);

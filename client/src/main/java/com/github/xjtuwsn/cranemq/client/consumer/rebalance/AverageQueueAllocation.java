@@ -8,9 +8,9 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:AverageQueueAllocation
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-16:17
  * 平均分配策略
  */

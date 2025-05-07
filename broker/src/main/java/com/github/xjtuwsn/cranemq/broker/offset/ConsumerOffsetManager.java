@@ -22,9 +22,9 @@ import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ConsumerOffsetManager
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/09-16:47
  * 消费者组偏移管理
  */

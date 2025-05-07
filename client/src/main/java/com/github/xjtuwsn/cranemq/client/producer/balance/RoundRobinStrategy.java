@@ -9,9 +9,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RoundRobinStrategy
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/30-16:36
  */
 public class RoundRobinStrategy implements LoadBalanceStrategy {

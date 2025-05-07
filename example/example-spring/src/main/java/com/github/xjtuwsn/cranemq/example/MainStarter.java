@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MainStarter
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/25-22:22
  */
 @SpringBootApplication

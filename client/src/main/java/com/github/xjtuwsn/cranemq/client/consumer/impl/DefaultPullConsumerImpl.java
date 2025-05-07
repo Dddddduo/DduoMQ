@@ -26,9 +26,9 @@ import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DefaultPullConsumerImpl
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-10:44
  * 拉取消息的消费者实现
  */

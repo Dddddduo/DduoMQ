@@ -22,9 +22,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:SimpleRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/15-15:33
  */
 public class SimpleReadableRegistry implements ReadableRegistry {

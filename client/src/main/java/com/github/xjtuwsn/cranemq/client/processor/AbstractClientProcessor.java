@@ -15,9 +15,9 @@ import org.slf4j.LoggerFactory;
 import java.util.concurrent.ExecutorService;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:AbstractClientProcessor
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-19:29
  */
 public abstract class AbstractClientProcessor implements BaseProcessor {

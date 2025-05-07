@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RRQueueAllocation
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/14-10:19
  * 轮询策略
  */

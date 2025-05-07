@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.example.entity.User;
 import org.springframework.stereotype.Service;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MessageConsumer
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/25-22:23
  */
 @Service

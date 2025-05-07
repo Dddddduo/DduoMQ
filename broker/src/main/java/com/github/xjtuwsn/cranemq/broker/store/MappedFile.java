@@ -27,16 +27,16 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MappedFile
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/03-10:20
  */
 
 /**
  * 一个commitLog分为很多子文件，一个消费队列存储文件也分为很多子文件
  * mappedFile作为这些子文件的底层实现，实现对文件的读写
- * @author wsn
+ * @author dduo
  */
 public class MappedFile {
     private static final Logger log = LoggerFactory.getLogger(MappedFile.class);

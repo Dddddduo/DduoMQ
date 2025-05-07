@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.remote.enums;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:HandlerType
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-15:48
  */
 public enum HandlerType {

@@ -12,9 +12,9 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:WrapperFutureCommand
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-21:06
  * 请求的最终包装类
  */

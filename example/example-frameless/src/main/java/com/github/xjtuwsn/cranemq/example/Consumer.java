@@ -12,9 +12,9 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:Consumer
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/25-22:04
  */
 public class Consumer {

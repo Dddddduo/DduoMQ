@@ -7,9 +7,9 @@ import lombok.*;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQSendBackRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/21-15:20
  */
 @Data

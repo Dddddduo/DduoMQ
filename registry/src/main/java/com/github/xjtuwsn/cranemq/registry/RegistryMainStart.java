@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.registry;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RegistryMain
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-15:17
  */
 public class RegistryMainStart {

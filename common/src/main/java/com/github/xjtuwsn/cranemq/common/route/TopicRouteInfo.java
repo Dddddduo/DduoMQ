@@ -14,9 +14,9 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TopicReouteInfo
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-20:00
  */
 @ToString

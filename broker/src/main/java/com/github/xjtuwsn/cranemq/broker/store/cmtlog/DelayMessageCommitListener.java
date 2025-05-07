@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.broker.store.cmtlog;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DelayMessageCommitListener
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/20-10:03
  */
 public interface DelayMessageCommitListener {

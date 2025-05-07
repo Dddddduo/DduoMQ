@@ -1,9 +1,9 @@
 package com.github.xjtuwsn.cranemq.common.remote;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:RemoteService
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-14:58
  */
 public interface RemoteService {

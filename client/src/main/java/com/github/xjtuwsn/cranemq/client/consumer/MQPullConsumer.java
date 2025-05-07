@@ -6,9 +6,9 @@ import com.github.xjtuwsn.cranemq.common.exception.CraneClientException;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQPullConsumer
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/06-22:18
  */
 public interface MQPullConsumer extends MQConsumer {

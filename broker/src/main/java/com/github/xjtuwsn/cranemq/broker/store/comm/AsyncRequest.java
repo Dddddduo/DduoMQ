@@ -5,9 +5,9 @@ import lombok.*;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:AsyncRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/04-11:00
  * 进行文件创建所需要的信息
  */

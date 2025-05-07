@@ -7,9 +7,9 @@ import org.slf4j.LoggerFactory;
 import java.io.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:JSONUtil
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/09-17:11
  */
 public class JSONUtil {

@@ -11,9 +11,9 @@ import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerQueueSnapShot
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-17:11
  * 队列消息在本地的快照
  */

@@ -8,9 +8,9 @@ import com.github.xjtuwsn.cranemq.common.remote.enums.RegistryType;
 import java.util.concurrent.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ProducerTest
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-16:18
  */
 public class ProducerTest {

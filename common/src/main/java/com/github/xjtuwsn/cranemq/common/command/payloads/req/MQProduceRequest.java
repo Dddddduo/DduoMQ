@@ -8,9 +8,9 @@ import com.github.xjtuwsn.cranemq.common.entity.Message;
 import java.io.Serializable;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MessageProduceRequest
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/26-21:07
  */
 @Data

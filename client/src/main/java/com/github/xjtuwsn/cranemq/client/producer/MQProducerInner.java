@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.client.producer;
 import java.util.List;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQProducerInner
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-14:37
  */
 public interface MQProducerInner {

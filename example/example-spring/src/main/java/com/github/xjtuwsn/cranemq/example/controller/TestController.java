@@ -9,9 +9,9 @@ import javax.annotation.Resource;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:TestController
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/25-22:23
  */
 @RestController

@@ -12,9 +12,9 @@ import java.io.IOException;
 import java.util.concurrent.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:PerformanceTest
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/30-19:12
  */
 public class PerformanceTest {

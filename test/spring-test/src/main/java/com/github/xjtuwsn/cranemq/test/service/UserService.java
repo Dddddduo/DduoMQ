@@ -17,9 +17,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:UserService
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/14-15:44
  */
 @RestController

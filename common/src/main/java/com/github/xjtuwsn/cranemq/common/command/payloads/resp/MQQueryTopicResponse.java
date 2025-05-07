@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.common.route.TopicRouteInfo;
 import lombok.*;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:MQUpdateTopicResponse
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/28-22:08
  */
 @Data

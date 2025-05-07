@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.common.consumer;
 import java.io.Serializable;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:StartConsume
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-10:43
  */
 public enum StartConsume implements Serializable {

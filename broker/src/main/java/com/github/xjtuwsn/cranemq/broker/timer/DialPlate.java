@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.common.exception.CraneBrokerException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DialPlate
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/19-14:16
  */
 

@@ -10,9 +10,9 @@ import java.util.ArrayList;
 import java.util.Enumeration;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:NetworkUtil
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-10:56
  */
 public class NetworkUtil {

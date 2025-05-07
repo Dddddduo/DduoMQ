@@ -12,9 +12,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:AbstractNacosRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/25-10:45
  */
 public class AbstractNacosRegistry implements RemoteService {

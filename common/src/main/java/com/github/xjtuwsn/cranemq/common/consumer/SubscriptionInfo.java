@@ -7,9 +7,9 @@ import java.util.Objects;
 import java.util.Set;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:SubscriptionInfo
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/08-10:39
  */
 @Data

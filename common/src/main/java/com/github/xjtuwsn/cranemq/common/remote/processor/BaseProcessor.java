@@ -7,9 +7,9 @@ import io.netty.channel.ChannelHandlerContext;
 import java.util.concurrent.ExecutorService;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BaseProcessor
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-14:39
  */
 public interface BaseProcessor {

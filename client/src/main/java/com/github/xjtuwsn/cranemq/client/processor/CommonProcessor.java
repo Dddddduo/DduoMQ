@@ -12,9 +12,9 @@ import org.slf4j.LoggerFactory;
 import java.util.concurrent.ExecutorService;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CommonProcessor
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/07-16:37
  */
 public class CommonProcessor implements BaseProcessor {

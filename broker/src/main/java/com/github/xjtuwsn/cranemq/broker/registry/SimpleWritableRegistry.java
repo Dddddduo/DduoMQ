@@ -19,9 +19,9 @@ import org.slf4j.LoggerFactory;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:SimpleWritableRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/16-11:16
  * 默认的可写注册中心，将路由信息写道注册中心
  */

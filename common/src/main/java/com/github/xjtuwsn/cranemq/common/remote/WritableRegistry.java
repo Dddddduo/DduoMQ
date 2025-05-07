@@ -6,9 +6,9 @@ import com.github.xjtuwsn.cranemq.common.route.TopicRouteInfo;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:WritableRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/16-11:13
  */
 public interface WritableRegistry extends RemoteService {

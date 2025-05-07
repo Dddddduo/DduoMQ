@@ -17,9 +17,9 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:NacosReadableRegistry
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/25-10:44
  */
 public class NacosReadableRegistry extends AbstractNacosRegistry implements ReadableRegistry {

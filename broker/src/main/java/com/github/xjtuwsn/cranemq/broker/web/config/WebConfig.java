@@ -5,9 +5,9 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:WebConfig
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/23-20:23
  */
 @Configuration

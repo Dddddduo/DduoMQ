@@ -33,9 +33,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CraneClientFactory
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/13-22:19
  * 向spring容器中注入生产者和消费者
  */

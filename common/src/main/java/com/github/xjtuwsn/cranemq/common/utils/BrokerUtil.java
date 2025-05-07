@@ -12,9 +12,9 @@ import java.util.Properties;
 import java.util.UUID;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:BrokerUtils
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/02-11:09
  */
 public class BrokerUtil {

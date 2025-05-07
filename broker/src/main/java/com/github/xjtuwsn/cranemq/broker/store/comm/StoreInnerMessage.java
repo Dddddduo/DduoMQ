@@ -5,9 +5,9 @@ import com.github.xjtuwsn.cranemq.common.entity.Message;
 import com.github.xjtuwsn.cranemq.common.entity.MessageQueue;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:StoreInnerMessage
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/03-15:45
  * 内部进行存储的消息，进行了相应的包装
  */

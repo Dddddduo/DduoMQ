@@ -29,9 +29,9 @@ import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DefaultMQProducerImpl
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-14:38
  * 消息生产者实现
  */

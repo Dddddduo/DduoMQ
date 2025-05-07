@@ -6,15 +6,15 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:CreateServiceThread
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/05-11:03
  */
 
 /**
  * 执行异步创建操作的抽象类
- * @author wsn
+ * @author dduo
  */
 public abstract class CreateServiceThread extends Thread {
 

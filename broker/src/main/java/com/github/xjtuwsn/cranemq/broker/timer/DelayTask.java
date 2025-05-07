@@ -3,9 +3,9 @@ package com.github.xjtuwsn.cranemq.broker.timer;
 import com.github.xjtuwsn.cranemq.broker.BrokerController;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:DelayTask
- * @author:wsn
+ * @author:dduo
  * @create:2023/10/19-11:21
  */
 

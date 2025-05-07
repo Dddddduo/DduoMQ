@@ -6,9 +6,9 @@ import com.github.xjtuwsn.cranemq.common.exception.CraneClientException;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @project:cranemq
+ * @project:dduomq
  * @file:ClienFactory
- * @author:wsn
+ * @author:dduo
  * @create:2023/09/27-15:43
  * 单例产生客户端实例
  */
