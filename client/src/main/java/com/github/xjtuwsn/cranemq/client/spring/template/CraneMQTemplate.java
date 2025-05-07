@@ -34,7 +34,7 @@ public class CraneMQTemplate {
     // 用于序列化数据
     private Serializer serializer;
 
-    //实际的消息生产者实例，负责将消息发送到 MQ 服务端
+    // 实际的消息生产者实例，负责将消息发送到 MQ 服务端
     private DefaultMQProducer defaultMQProducer;
 
     /**
