@@ -1,0 +1,7 @@
+server:
+  port: 7654
+spring:
+  application:
+    name: cranemq-broker
+cranemq:
+  conf: classpath:default.conf
